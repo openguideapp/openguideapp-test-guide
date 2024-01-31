@@ -1,3 +1,3 @@
 # Hello World!
 
-::button[To Guide 1!](guide1.md)
+::button[To Guide 1!]{ path=guide1.md }
