@@ -1,0 +1,11 @@
+[languages]
+en = "English"
+en_simple = "English (Simple)"
+en_kids = "English (Kids)"
+en_GB = "English (UK)"
+en_US = "English (US)"
+de = "German"
+de_einfach = "German (Einfach)"
+es = "Spanish"
+es_ES = "Spanish (Spain)"
+es_MX = "Spanish (Mexico)"
