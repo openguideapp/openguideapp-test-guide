@@ -1,14 +1,16 @@
 body {
-  white-space: "normal";
-  color: "gray";
+  white-space: normal;
+  color: gray;
 }
 
 a {
-  color: "green";
+  color: green;
 }
+
 #red {
-  color: "red";
+  color: red;
 }
+
 .red {
-  color: "red";
+  color: red;
 }
