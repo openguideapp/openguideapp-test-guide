@@ -1,8 +1,3 @@
-::vimeo[ video ]{ url=""}
+# video
 
-https://github.com/zhigang1992/react-native-video-cache
-expo-cached-media
-
-
-
-https://www.npmjs.com/package/react-native-video
+:: video [video text] { url="https://github.com/openguideapp/openguideapp-test-guide/raw/main/media/video/museum2.mp4" }
