@@ -35,11 +35,11 @@ overlay50 = "rgba(25, 16, 21, 0.5)"
 
 [colorsMapping]
 transparent = "rgba(0, 0, 0, 0)" # Transparent
-text = "#212121" # Rich Black
-textDim = "#757575" # Dark Grey
-background = "#F5F5F5" # Very Light Grey
-border = "#BDBDBD" # Medium Grey
-tint = "#1565C0" # Deep Blue
-separator = "#E0E0E0" # Light Grey
-error = "#D32F2F" # Bright Red
-errorBackground = "#FFCDD2" # Light Red
+text = "$neutral900" # Rich Black
+textDim = "$neutral600" # Dark Grey
+background = "$neutral200" # Very Light Grey
+border = "$neutral400" # Medium Grey
+tint = "$primary500" # Deep Blue
+separator = "$neutral300" # Light Grey
+error = "$angry500" # Bright Red
+errorBackground = "$angry100" # Light Red
