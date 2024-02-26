@@ -1,0 +1,45 @@
+[colorsPalette]
+neutral100 = "#FFFFFF" # Pure White
+neutral200 = "#F5F5F5" # Very Light Grey
+neutral300 = "#E0E0E0" # Light Grey
+neutral400 = "#BDBDBD" # Medium Grey
+neutral500 = "#9E9E9E" # Dim Grey
+neutral600 = "#757575" # Dark Grey
+neutral700 = "#616161" # Darker Grey
+neutral800 = "#424242" # Near Black
+neutral900 = "#212121" # Almost Black
+
+primary100 = "#E3F2FD" # Light Blue
+primary200 = "#90CAF9" # Sky Blue
+primary300 = "#42A5F5" # Bright Blue
+primary400 = "#1E88E5" # Vivid Blue
+primary500 = "#1565C0" # Deep Blue
+
+secondary100 = "#FFECB3" # Light Yellow
+secondary200 = "#FFD54F" # Sunny Yellow
+secondary300 = "#FFCA28" # Golden Yellow
+secondary400 = "#FFC107" # Amber
+secondary500 = "#FFB300" # Deep Amber
+
+accent100 = "#C8E6C9" # Mint Green
+accent200 = "#81C784" # Light Green
+accent300 = "#66BB6A" # Grass Green
+accent400 = "#4CAF50" # Vibrant Green
+accent500 = "#388E3C" # Forest Green
+
+angry100 = "#F2D6CD"
+angry500 = "#C03403"
+
+overlay20 = "rgba(25, 16, 21, 0.2)"
+overlay50 = "rgba(25, 16, 21, 0.5)"
+
+[colorsMapping]
+transparent = "rgba(0, 0, 0, 0)" # Transparent
+text = "#212121" # Rich Black
+textDim = "#757575" # Dark Grey
+background = "#F5F5F5" # Very Light Grey
+border = "#BDBDBD" # Medium Grey
+tint = "#1565C0" # Deep Blue
+separator = "#E0E0E0" # Light Grey
+error = "#D32F2F" # Bright Red
+errorBackground = "#FFCDD2" # Light Red
