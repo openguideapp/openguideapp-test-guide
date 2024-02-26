@@ -33,7 +33,7 @@ angry500 = "#C03403"
 overlay20 = "rgba(25, 16, 21, 0.2)"
 overlay50 = "rgba(25, 16, 21, 0.5)"
 
-[colorsMapping]
+[colorMapping]
 transparent = "rgba(0, 0, 0, 0)" # Transparent
 text = "$neutral900" # Rich Black
 textDim = "$neutral600" # Dark Grey
