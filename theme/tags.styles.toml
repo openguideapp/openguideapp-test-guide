@@ -2,6 +2,13 @@
 color = "#ffc0cb"
 fontSize = 33
 
+[h2]
+color = "#ffc0cb"
+fontSize = 44
+
+[h3]
+color = "$accent200"
+fontSize = 22
 
 [audio]
 color = "#ffc0cb"
