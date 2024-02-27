@@ -1,3 +1,11 @@
 [h1]
 color = "#ffc0cb"
 fontSize = 33
+
+
+[audio]
+color = "#ffc0cb"
+
+
+[video]
+color = "$accent100"
