@@ -1,0 +1,5 @@
+[base]
+backgroundColor = "$neutral200"
+
+[tabBar]
+backgroundColor = "$neutral200"
